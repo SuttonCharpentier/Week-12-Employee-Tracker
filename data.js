@@ -8,7 +8,7 @@ const questions = [
       'View all roles',
       'View all employees',
       'Add a department',
-      'Add a roll',
+      'Add a role',
       'Add a employee',
       'Update Employee Role',
       'Update Employee Manager',
