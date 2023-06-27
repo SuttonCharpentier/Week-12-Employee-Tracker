@@ -44,7 +44,7 @@ const init = () => {
           addDepartment();
           break;
 
-        case "Add a roll":
+        case "Add a role":
           addRole();
           break;
 
